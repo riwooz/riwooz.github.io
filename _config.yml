@@ -41,11 +41,13 @@ timezone:    America/New_York
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
-plugins:
-  - jekyll-sitemap
+  plugins:
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 sass:
   sass_dir: _sass
   style: compressed
