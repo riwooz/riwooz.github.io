@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Riwooz Home"
+title: "Welcome to Riwoo's Home"
 date: 2020-01-27 08:26:28 -0400
-categories: Riwooz
+categories: JavaScript
 ---
 
 
