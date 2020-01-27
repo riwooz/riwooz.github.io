@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Riwoo's Home"
-date: 2020-01-27 08:26:28 -0400
+date: 2020-01-27
 categories: JavaScript
 ---
 
