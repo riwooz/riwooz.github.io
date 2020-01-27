@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Riwoo's Home"
+title: "JavaScript Visualized"
 date: 2020-01-27
 categories: JavaScript
 ---
