@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript Visualized"
 date: 2020-01-27
-categories: JavaScript
+#categories: JavaScript
 ---
 
 
